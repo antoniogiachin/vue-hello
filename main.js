@@ -4,6 +4,7 @@ const app = new Vue ({
 
         message : 'Hello, World!',
 
+        img : 'https://picsum.photos/200/300'
     }
 
 })
